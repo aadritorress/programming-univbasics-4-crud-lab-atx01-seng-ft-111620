@@ -50,4 +50,4 @@ def update_element_from_index(array, index_number, element)
 
 end
 
-p 
+p retrieve_element_from_index [2]
